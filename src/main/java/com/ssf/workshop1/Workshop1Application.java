@@ -13,7 +13,6 @@ import java.util.Collections;
 public class Workshop1Application {
 
     public static void main(String[] args) {
-
 //        SpringApplication.run(Workshop1Application.class, args);
         SpringApplication app = new SpringApplication(Workshop1Application.class);
 
